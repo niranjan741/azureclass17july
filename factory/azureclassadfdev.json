@@ -1,0 +1,15 @@
+{
+	"name": "azureclassadfdev",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "7af32af9-7f90-4a05-b923-f73c3945dac5",
+		"tenantId": "9fdea746-3a5b-4b52-a7b7-de70655e6235"
+	}
+}
